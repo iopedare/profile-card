@@ -4,19 +4,23 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out this front-end coding challenge. I am recreating the image above as my challenge. 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-## Collaboration
-1. [Clone this repo]`git clone https://github.com/iopedare/profile-card.git`
-2. 
+This [Frontend Mentor](https://www.frontendmentor.io) challenge allow me to improve my skills in a real-life workflow.
 
 
-## Giving feedback
+## How to clone this project
+1. 'git clone https://github.com/iopedare/profile-card.git`
 
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+## Please create a new branch when you are pushing to this repo
+1. `git init`
+2. `git add .`
+3. `git commit -m "commit message"`
+4. `git branch -M [branch-name]`
+5. `git remote add origin https://github.com/iopedare/profile-card.git`
+6. `git push -u origin main`
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+
 
 **Have fun building!** 🚀
