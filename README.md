@@ -1,12 +1,11 @@
-# Frontend Mentor - Profile card component
+# Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. I am recreating the image above as my challenge. 
+Thanks for checking out this front-end coding challenge. My task is to recreate the image above. 
 
-This [Frontend Mentor](https://www.frontendmentor.io) challenge allow me to improve my skills in a real-life workflow.
 
 
 ## How to clone this project
