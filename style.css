@@ -1,0 +1,93 @@
+:root {
+  --main-white: #f0f0f0;
+  --dark-cyan: hsl(185, 75%, 39%);
+  --dark-sat-blue: hsl(229, 23%, 23%);
+  --dark-gray-blue: hsl(227, 10%, 46%);
+
+  /* Neutral */
+  --dark-gray: hsl(0, 0%, 59%);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  font-family: 'Kumbh Sans', sans-serif;
+  background-color: var(--dark-cyan);
+}
+
+.container {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.sub-contain {
+  height: 350px;
+  width: 350px;
+  background-color: var(--main-white);
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* border: 10px none red; */
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+
+}
+
+.image-victor {
+  height: 100px;
+  width: 100px;
+  background-image: url("images/image-victor.jpg");
+  background-size: cover;
+  border-radius: 50%;
+  border: 5px solid var(--main-white);
+  position: relative;
+  top: 50px;
+  margin-left: 125px;
+}
+
+.bg-pattern-card {
+  height: 100px;
+  width: 100%;
+  background-image: url("images/bg-pattern-card.svg");
+  position: relative;
+}
+
+.profile-name {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  display: grid;
+  height: 12vh;
+}
+
+.age {
+  font-weight: 200;
+  color: var(--dark-gray-blue);
+  margin-left: 5px;
+}
+
+.location {
+  font-size: 0.7em;
+  color: var(--dark-gray-blue)
+}
+
+.grid-2 {
+  float: left;
+  margin-left: 38px;
+  margin-right: 35px;
+  padding-top: 30px;
+}
+
+.followers {
+  font-size: 0.5em;
+  padding-top: 5px;
+  color: var(--dark-gray-blue)
+}
