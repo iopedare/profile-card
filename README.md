@@ -10,7 +10,7 @@ This [Frontend Mentor](https://www.frontendmentor.io) challenge allow me to impr
 
 
 ## How to clone this project
-1. 'git clone https://github.com/iopedare/profile-card.git`
+1. `git clone https://github.com/iopedare/profile-card.git`
 
 ## Please create a new branch when you are pushing to this repo
 1. `git init`
