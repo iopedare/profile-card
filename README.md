@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+[Profile Card](https://profile-card-git-main-iopedare.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge. My task is to recreate the image above. 
