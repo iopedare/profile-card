@@ -2,55 +2,66 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <!-- displays site properly based on user's device -->
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 
   <title>Frontend Mentor | Profile card component</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <!-- <link rel="preconnect" href="https://fonts.gstatic.com"> -->
   <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
-    .attribution { font-size: 11px; text-align: center; }
+    .attribution { font-size: 12px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
   </style>
 </head>
-<body>
-  <div class="container">
+<body >
+  <div class="boogie container">
+    <img src="images/b-pattern-top.svg" alt="">
+    <!-- <div class="header"></div> -->
 
-    <div class="sub-contain">
-      <div class="bg-pattern-card">
-        <div class="image-victor"></div>
-      </div>
+    <!-- <div class="main"> -->
 
-      <div class="profile-name">
-        <h3 class="username">Victor Crest<span class="age"> 26</span></h3>
-        <p class="location">London</p>
-      </div>
-
-      <hr>
-
-      <div class="profile-stats">
-        <div class="grid-2">
-          <h3 class="title">80k</h3>
-          <p class="followers">Followers</p>
+      <div class="sub-contain">
+        <div class="bg-pattern-card">
+          <img class="image-victor" src="images/image-victor.jpg" alt="uh oh!">
         </div>
-        <div class="grid-2">
-          <h3 class="title">803k</h3>
-          <p class="followers">Likes</p>
+
+        <div class="profile-name">
+          <h3 class="username">Victor Crest<span id="age"> 26</span></h3>
+          <p id="location">London</p>
         </div>
-        <div class="grid-2">
-          <h3 class="title">1.4k</h3>
-          <p class="followers">Photos</p>
+
+        <hr>
+
+        <div class="profile-stats">
+          <div class="grid-2">
+            <h3 class="title">80k</h3>
+            <p class="followers">Followers</p>
+          </div>
+          <div class="grid-2">
+            <h3 class="title">803k</h3>
+            <p class="followers">Likes</p>
+          </div>
+          <div class="grid-2">
+            <h3 class="title">1.4k</h3>
+            <p class="followers">Photos</p>
+          </div>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
+
+
+
+
+    <!-- <div class="footer-2"></div> -->
 
   </div>
 
-  <div class="attribution">
+  <div class="attribution footer">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
     Coded by <a href="#">Dayo Opedare</a>.
   </div>
