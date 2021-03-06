@@ -1,12 +1,12 @@
 # Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-[Profile Card](https://profile-card-git-main-iopedare.vercel.app/)
+
+[Click to view profile card](https://profile-card-git-main-iopedare.vercel.app/)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. My task is to recreate the image above. 
+Thanks for checking out my profile card.
 
 
 
@@ -19,7 +19,7 @@ Thanks for checking out this front-end coding challenge. My task is to recreate 
 3. `git commit -m "commit message"`
 4. `git branch -M [branch-name]`
 5. `git remote add origin https://github.com/iopedare/profile-card.git`
-6. `git push -u origin main`
+6. `git push -u origin [branch-name]`
 
 
 
